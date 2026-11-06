@@ -1,0 +1,22 @@
+method,layer,label,bitwise_acc,n_present,n_total
+Adaptive RF,conv1,conv1,1.0,64,64
+Adaptive RF,layer1.0.conv1,conv2,0.8433430989583334,64,64
+Adaptive RF,layer1.0.conv2,conv3,1.0,64,64
+Adaptive RF,layer1.1.conv1,conv4,0.9999186197916666,64,64
+Adaptive RF,layer1.1.conv2,conv5,0.9999728732638888,64,64
+Adaptive RF,layer2.0.conv1,conv6,0.9999864366319444,128,128
+Adaptive RF,layer2.0.conv2,conv7,0.9999593098958334,128,128
+Adaptive RF,layer2.0.downsample.0,conv8,0.9998779296875,128,128
+Adaptive RF,layer2.1.conv1,conv9,0.9999321831597222,128,128
+Adaptive RF,layer2.1.conv2,conv10,0.9919365776909722,128,128
+Adaptive RF,layer3.0.conv1,conv11,0.9997795952690972,256,256
+Adaptive RF,layer3.0.conv2,conv12,0.9994167751736112,256,256
+Adaptive RF,layer3.0.downsample.0,conv13,1.0,256,256
+Adaptive RF,layer3.1.conv1,conv14,0.9988013373480903,256,256
+Adaptive RF,layer3.1.conv2,conv15,0.9955783420138888,256,256
+Adaptive RF,layer4.0.conv1,conv16,0.9968990749782987,512,512
+Adaptive RF,layer4.0.conv2,conv17,0.9966773986816406,512,512
+Adaptive RF,layer4.0.downsample.0,conv18,0.9996490478515625,512,512
+Adaptive RF,layer4.1.conv1,conv19,0.9629826015896268,512,512
+Adaptive RF,layer4.1.conv2,conv20,0.42942725287543404,512,512
+Adaptive RF,fc,FC,0.001953125,10,10

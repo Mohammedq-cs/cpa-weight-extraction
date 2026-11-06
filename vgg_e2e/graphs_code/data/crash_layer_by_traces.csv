@@ -1,0 +1,8 @@
+traces,num_traces,crashed_at
+500,500,conv3
+1000,1k,conv5
+2000,2k,conv6
+5000,5k,conv8
+10000,10k,fc1
+20000,20k,-
+40000,40k,-
